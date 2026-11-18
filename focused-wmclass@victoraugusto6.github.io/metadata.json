@@ -1,0 +1,7 @@
+{
+  "uuid": "focused-wmclass@victoraugusto6.github.io",
+  "name": "Focused WM Class",
+  "description": "Exposes the WM class of the focused window over D-Bus, so scripts can tell which app has focus on Wayland.",
+  "url": "https://github.com/victoraugusto6/gnome-focused-wmclass",
+  "shell-version": ["46"]
+}
